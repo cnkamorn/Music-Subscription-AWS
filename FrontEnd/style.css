@@ -1,0 +1,34 @@
+.h100 {
+  height: 90vh;
+}
+
+.w100 {
+  width: 100%;
+}
+
+.lc {
+  background-color: rgb(203, 223, 223);
+}
+
+.right10 {
+  padding-right: 100px;
+}
+
+.none {
+  display: none;
+}
+
+.xxx {
+  margin-top: 20px;
+}
+
+.subbutton {
+  margin-top: 1rem;
+}
+
+.content {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 200px;
+}
