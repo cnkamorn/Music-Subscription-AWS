@@ -5,7 +5,7 @@ This document describes the AWS architecture for a music streaming application. 
 Services Used:<br>
 Amazon DynamoDB: NoSQL database service for storing user login information (login table) and music data (music table).<br>
 Amazon S3: Object storage service for storing artist images.<br>
-EC2: Hosting the Frontend with Apache Server<br>
+EC2: Hosting the Frontend with Apache Server.<br>
 AWS Lambda: Serverless compute service for handling user interactions through API Gateway.<br>
 Amazon API Gateway: Service for creating, publishing, and managing APIs to access DynamoDB.<br>
 
